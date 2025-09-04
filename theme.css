@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+body.dark #themeToggleButton {
+  background-color: #444;
+  color: white;
+}
+
+#themeToggleButton{
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+    width:110px;
+    border: none;
+}

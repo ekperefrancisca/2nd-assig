@@ -1,0 +1,36 @@
+body {
+    font-family:  sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+    justify-items: center;
+}
+ 
+main {
+    width: 80%;
+
+margin-top: 15%;
+    justify-items: center;
+    padding: 20px;
+    background-color: rgb(54, 4, 52);
+    border-radius: 10px;
+}
+h2{
+    
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+button {
+    display: block;
+   padding: 20px 30px;
+    margin: 20px auto;
+    font-size: 24px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+ 
